@@ -1,0 +1,23 @@
+The number of arguments given: 6
+Name: ObiVan
+Szint: master
+Erõ: 90
+A jedi létrejöhet
+Name: Skywalker
+Szint: master
+Erõ: 60
+A jedi létrejöhet
+A jedilista mérete: 2
+------------------------------------------------
+The winner jedi is: ObiVan
+Gyõzelmek száma: 1
+The winner jedi is: Skywalker
+Gyõzelmek száma: 1
+The winner jedi is: Skywalker
+Gyõzelmek száma: 2
+The winner jedi is: ObiVan
+Gyõzelmek száma: 2
+The winner jedi is: ObiVan
+Gyõzelmek száma: 3
+------------------------------------------------
+A jeditorna gyõztese: Jedi{name='ObiVan', szint='master', ero=90, wins=3}

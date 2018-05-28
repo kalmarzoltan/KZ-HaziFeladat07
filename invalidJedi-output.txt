@@ -1,0 +1,9 @@
+The number of arguments given: 6
+Name: ObiVan
+Szint: master
+Erõ: 80
+A jedi létrejöhet
+JediException!
+Jediparameter problem
+A jedilista mérete: 1
+------------------------------------------------

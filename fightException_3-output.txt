@@ -1,0 +1,13 @@
+The number of arguments given: 6
+Name: ObiVan
+Szint: master
+Erõ: 71
+A jedi létrejöhet
+Name: Skywalker
+Szint: master
+Erõ: 40
+A jedi létrejöhet
+A jedilista mérete: 2
+------------------------------------------------
+JediFightException!
+FightException van! Több mint 30 az erõ különbség
